@@ -1,1 +1,1 @@
-# IO_Frontend
+# Inżynieria oprogramowania frontend repository
